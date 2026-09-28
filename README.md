@@ -32,13 +32,19 @@ Afficher l'historique en graphe quand c'est pertinent.
 ## Niveau 2
 6. Secret retiré du suivi
 (capture)
-7. Conflit résolu (marqueurs avant, graphe après)
+<img width="1463" height="495" alt="secret retiré" src="https://github.com/user-attachments/assets/7277e633-cdaa-4bf0-9e5a-6b4a3425a8bf" />
+<img width="835" height="314" alt="secret retiré 2" src="https://github.com/user-attachments/assets/cce520d0-6790-43cd-984d-3a1e606163dd" />
+
+8. Conflit résolu (marqueurs avant, graphe après)
 (capture)
-8. Revert du bandeau promo
+<img width="1084" height="748" alt="conflit" src="https://github.com/user-attachments/assets/902cc97d-03c5-4bd4-915d-2b258c45cd59" />
+<img width="705" height="185" alt="résolution conflit" src="https://github.com/user-attachments/assets/d3faec78-4a8d-4ced-9862-1ee3f7e3c19d" />
+
+10. Revert du bandeau promo
 (capture)
-9. Issue fermée par une Pull Request
+11. Issue fermée par une Pull Request
 (capture)
-10. Protection de main et CI au vert
+12. Protection de main et CI au vert
 (capture)
 
 ## Cible mobile
