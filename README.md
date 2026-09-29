@@ -57,7 +57,8 @@ Afficher l'historique en graphe quand c'est pertinent.
 
 ## Cible mobile
 11. Commit distant récupéré et conflit résolu
-(capture)
+(capture)<img width="1089" height="744" alt="commit distant" src="https://github.com/user-attachments/assets/de937776-c383-4ef4-98c2-cff2f1c047ed" />
+<img width="1087" height="749" alt="conflit résolu" src="https://github.com/user-attachments/assets/8493aef6-c87e-457d-8069-92a1d2d75443" />
 
 ## Trois commits annotés
 1. <hash> :
