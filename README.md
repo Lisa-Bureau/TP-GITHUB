@@ -52,6 +52,8 @@ Afficher l'historique en graphe quand c'est pertinent.
 
 14. Protection de main et CI au vert
 (capture)
+<img width="974" height="719" alt="protection main" src="https://github.com/user-attachments/assets/694983aa-5ce6-4667-b04d-c8adc578a9f6" />
+<img width="1319" height="654" alt="CI vert" src="https://github.com/user-attachments/assets/463b7d43-c9ce-4104-8f58-2a41e37e8c80" />
 
 ## Cible mobile
 11. Commit distant récupéré et conflit résolu
