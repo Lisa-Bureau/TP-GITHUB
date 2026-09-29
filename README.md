@@ -48,7 +48,9 @@ Afficher l'historique en graphe quand c'est pertinent.
 
 12. Issue fermée par une Pull Request
 (capture)
-13. Protection de main et CI au vert
+<img width="1304" height="684" alt="issue" src="https://github.com/user-attachments/assets/a61d9554-542f-436e-9601-5ee225809a76" />
+
+14. Protection de main et CI au vert
 (capture)
 
 ## Cible mobile
